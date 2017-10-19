@@ -23,11 +23,33 @@ h3 {
   font-size: 23px;
 }
 
+p {
+  font-size: 14px;
+}
+
 .header {
   background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
+
 }
 
 .btn-nav {
   font-size: 18px;
   color: white;
+}
+
+.sub-header {
+    background-image: url('../images/the-flatiron-building.png');
+    background-size: cover;
+}
+
+.sub-header h3 {
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
